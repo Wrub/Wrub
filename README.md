@@ -1,5 +1,5 @@
 # Hey there, Im Wrub.
-Im a Front-end Engineer, currently based in Curitiba, Paraná in Brasil.
+Im a Front-end Engineer, currently based in Curitiba, Paraná, Brazil.
 
 ## About
 💙 Science enthusiast, love to talk about studies, papers and science based knowledges. My actual main science interests human body and behavior, effects of physical activities, neuroscience and entrepreneurship related contents.<br/>
