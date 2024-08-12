@@ -1,12 +1,11 @@
-# Hey there, Im Wrub.
-Im a Front-end Engineer, currently based in Curitiba, Paraná, Brazil.
+# Hey, Im Wrub.
+Im at Front-end Developer position, with two years of experience, currently based in Curitiba, Paraná, Brazil.
 
 ## About
-💙 Science enthusiast, love to talk about studies, papers and science based knowledges. My actual main science interests are human body and behavior, effects of physical activities, neuroscience and entrepreneurship related contents.<br/>
-📚 Currently reading "Why We Sleep" From [Matthew Walker](https://www.google.com/search?q=matthew+walker&oq=Matthew+walker&gs_lcrp=EgZjaHJvbWUqEAgAEAAYgwEY4wIYsQMYgAQyEAgAEAAYgwEY4wIYsQMYgAQyDQgBEC4YgwEYsQMYgAQyBwgCEC4YgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBggHEEUYPdIBCDIyNzhqMGo0qAIAsAIB&sourceid=chrome&ie=UTF-8)<br/>
-💡 Love for the business world, mainly related to entrepreneurship and tech.<br/>
-💪 Gymrat and "retired"(😆) basketball player.<br/>
-🎮 FPS Player, love video games but mostly FPS games.</br>
+💙 Science enthusiast, love to talk about studies, papers and science based knowledges.<br/>
+💡 Love for the entrepreneurship world.<br/>
+💪 Being a Gymrat and "retired" basketball player, but a big fan of physical activities in general.<br/>
+🎮 FPS Player, love all kinds of games but mostly FPS games, Hunt Showdown is being my favorite at the moment.</br>
 🏆 Self-development Junkie.
 
 ## My Tech Stack
