@@ -1,5 +1,5 @@
 # Hey, Im Wrub.
-Im at Front-end Developer position, with two years of experience, currently based in Curitiba, Paraná, Brazil.
+Currently at a Front-end Developer position, with two years of experience, currently based in Curitiba, Paraná, Brazil.
 
 ## About
 💙 Science enthusiast, love to talk about studies, papers and science based knowledges.<br/>
