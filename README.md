@@ -1,16 +1,29 @@
-# Hey, Im Wrub.
-Currently at a Front-end Developer position, with two years of experience, currently based in Curitiba, Paraná, Brazil.
+# Howdy? I'm Wrub 👋
+Currently working as a Front-end Developer with two years of experience, based in Curitiba, Paraná, Brazil.
 
-## About
-💙 Science enthusiast, love to talk about studies, papers and science based knowledges.<br/>
-💡 Love for the entrepreneurship world.<br/>
-💪 Being a Gymrat and "retired" basketball player, but a big fan of physical activities in general.<br/>
-🎮 FPS Player, love all kinds of games but mostly FPS games, Hunt Showdown is being my favorite at the moment.</br>
-🏆 Self-development Junkie.
+---
 
-## My Tech Stack
-[![Main Stack](https://skillicons.dev/icons?i=html,js,ts,vue,nuxt,react)](https://skillicons.dev)<br/>
-[![My Back Stack](https://skillicons.dev/icons?i=nodejs,express,nest)](https://skillicons.dev)<br/>
-[![My Style Stack](https://skillicons.dev/icons?i=css,sass,tailwind)](https://skillicons.dev)<br/>
-[![My Most Used Tools](https://skillicons.dev/icons?i=bitbucket,vite,vercel)](https://skillicons.dev)<br/>
+## About Me
+💙 **Science Enthusiast** – Love discussing studies, papers, and science-based knowledge.<br/>
+💡 **Entrepreneurship** – A strong interest in the world of startups and innovation.<br/>
+💪 **Lifestyle** – Gymrat and 'retired' basketball player, passionate about staying active and engaging in various physical activities.<br/>
+🎮 **Gamer** – Enjoy all kinds of games, with a focus on FPS. Currently hooked on *Hunt: Showdown*.<br/>
 
+---
+
+## Stack
+
+### Front-end
+[![Front-end](https://skillicons.dev/icons?i=js,ts,vue,nuxt,react,next,bootstrap)](https://skillicons.dev)
+
+### Back-end
+[![Back-end](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
+
+### Styling
+[![Style](https://skillicons.dev/icons?i=css,tailwind,sass)](https://skillicons.dev)
+
+### Tools I Use the most
+[![My Most Used Tools](https://skillicons.dev/icons?i=bitbucket,vite,vercel)](https://skillicons.dev)
+
+### Operational System
+[![Operational Systems](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
