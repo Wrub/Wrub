@@ -5,25 +5,28 @@ Currently working as a Front-end Developer with two years of experience, based i
 
 ## About Me
 💙 **Science Enthusiast** – Love discussing studies, papers, and science-based knowledge.<br/>
-💡 **Entrepreneurship** – A strong interest in the world of startups and innovation.<br/>
-💪 **Lifestyle** – Gymrat and 'retired' basketball player, passionate about staying active and engaging in various physical activities.<br/>
-🎮 **Gamer** – Enjoy all kinds of games, with a focus on FPS. Currently hooked on *Hunt: Showdown*.<br/>
+💡 – A strong interest in the world of innovation, tech and enterprises.<br/>
+💪 – Gymrat and 'retired' basketball player, passionate about staying active and engaging in various physical activities.<br/>
+🎮 – Enjoy all kinds of games, with a focus on FPS. Currently hooked on *Hunt: Showdown*.<br/>
 
 ---
 
 ## Stack
 
 ### Front-end
-[![Front-end](https://skillicons.dev/icons?i=js,ts,vue,nuxt,react,next,bootstrap)](https://skillicons.dev)
+[![Front-end](https://skillicons.dev/icons?i=js,ts,vue,nuxt,react,next)](https://skillicons.dev)
 
 ### Back-end
 [![Back-end](https://skillicons.dev/icons?i=nodejs,express)](https://skillicons.dev)
 
 ### Styling
-[![Style](https://skillicons.dev/icons?i=css,tailwind,sass)](https://skillicons.dev)
+[![Style](https://skillicons.dev/icons?i=css,tailwind,sass,bootstrap)](https://skillicons.dev)
 
-### Tools I Use the most
-[![My Most Used Tools](https://skillicons.dev/icons?i=bitbucket,vite,vercel)](https://skillicons.dev)
+### D.B
+[![Back-end](https://skillicons.dev/icons?i=postgres,supabase,mongodb)](https://skillicons.dev)
 
-### Operational System
-[![Operational Systems](https://skillicons.dev/icons?i=linux,windows)](https://skillicons.dev)
+### Code versioning
+[![Code versioning tools](https://skillicons.dev/icons?i=bitbucket,github)](https://skillicons.dev)
+
+### O.S
+[![Operational Systems](https://skillicons.dev/icons?i=ubuntu,mint,windows)](https://skillicons.dev)
