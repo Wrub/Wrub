@@ -1,5 +1,5 @@
 # Howdy? I'm Wrub 👋
-Currently working as a Front-end Developer with two years of experience, based in Curitiba, Paraná, Brazil.
+Currently working as a Front-end Developer, based in Curitiba, Paraná, Brazil.
 
 ---
 
