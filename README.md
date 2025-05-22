@@ -1,5 +1,15 @@
-# Howdy? I'm Wrub 👋  
-*Front-end Developer based in Curitiba, Paraná, Brazil.*
+# Hi! I'm Wrub 👋  
+*Full-Stack Developer currently working as a mid-level Front-end Developer, based in Curitiba, Paraná, Brazil.*
+
+I'm driven by curiosity and a genuine passion for learning.  
+I love building things that are not only functional, but also **clean**, **reliable**, and **scalable**.
+
+As I grow into a software engineer, I care deeply about:
+- Writing quality, maintainable code
+- Understanding the *why* and *how* behind the tools I use
+- Building applications that are enjoyable to use — and to work on
+
+I'm always exploring better ways to **build**, **structure**, and **ship** software.
 
 ---
 
@@ -37,4 +47,10 @@
 | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) | ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat&logo=linuxmint&logoColor=white) | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) |
 |---|---|---|
 
----
+--- 
+
+## 💬
+
+Feel free to reach out for collaboration, feedback, or for a talk!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/vinicius-wrubleski/)
